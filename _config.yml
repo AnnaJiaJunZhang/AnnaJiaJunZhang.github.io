@@ -12,7 +12,7 @@ title                    : "Anna Jiajun Zhang"
 title_separator          : "-"
 name                     : &name "Anna Jiajun Zhang"
 description              : &description "personal description"
-url                      : https://github.com/AnnaJiaJunZhang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/AnnaJiaJunZhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
